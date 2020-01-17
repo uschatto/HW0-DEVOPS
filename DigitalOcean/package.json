@@ -1,0 +1,20 @@
+{
+  "name": "hw0-devops",
+  "version": "1.0.0",
+  "description": "Devops HW0",
+  "main": "digitalocean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ncsu.edu/uschatto/HW0-DevOps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "got": "^10.2.2",
+    "os": "^0.1.1"
+  }
+}

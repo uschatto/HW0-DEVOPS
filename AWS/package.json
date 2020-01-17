@@ -1,0 +1,15 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "Provision",
+  "main": "aws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Udita Chattopadhyay",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.604.0",
+    "chalk": "^3.0.0"
+  }
+}
