@@ -89,5 +89,7 @@ aws_secret_access_key = AWS SECRET ACCESS KEY
 - The provision code provided reads the credentials file and sets the above generated key pair name and security group id in the parameters. It then moves on to create a new VM or in terms of AWS a new EC2 instance is created. We extract the instance ID from the response received. Using this instance ID we are able to issue another call to retrieve the information about the instance thus created. Here we extract the IP address.
 
 <p align="center"> 
-<img src="https://media.github.ncsu.edu/user/12214/files/4976e000-396c-11ea-90bf-8b7b3c230656" width="700" height="100">
+<img src="https://media.github.ncsu.edu/user/12214/files/4976e000-396c-11ea-90bf-8b7b3c230656" width="700" height="50">
 </p>
+
+[**SCREENCAST**](https://drive.google.com/open?id=1OjQj5bMMXMVK_L0b2iaQAcQSSkWIjPDl)
